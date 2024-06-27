@@ -20,6 +20,7 @@
 [SQL Notes.pptx](https://github.com/user-attachments/files/16011945/SQL.Notes.pptx)
 ### cursor notes are below
 [cursor_sql.pdf](https://github.com/user-attachments/files/16011963/cursor_sql.pdf)
+<br><br><br>
 
 ## GFG aptitiude
 https://www.geeksforgeeks.org/aptitude-for-placements/
