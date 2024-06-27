@@ -21,6 +21,17 @@
 ### cursor notes are below
 [cursor_sql.pdf](https://github.com/user-attachments/files/16011963/cursor_sql.pdf)
 
+## GFG aptitiude
+https://www.geeksforgeeks.org/aptitude-for-placements/
+<br><br><br>
+
+## GFG puzzles
+https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/
+<br><br><br>
+
+## Micro app link for Interview prep mindmap 
+https://miro.com/app/board/uXjVK4SWoA0=/
+
 
 
 
